@@ -31,7 +31,7 @@ The second module continues exploring the use of functions in Go, delving into a
 
 ### Assessment
 
-- [displacement.go](tree/main/week%202/displacement.go)
+- [displacement.go](week%202/displacement.go)
 
 ## Week 3: Object Orientation in Go
 
@@ -46,4 +46,4 @@ Functions in Go offer powerful capabilities, and this module explores their usag
 
 ### Assessment
 
-- [animal.go](tree/main/week%203/animal.go)
+- [animal.go](week%203/animal.go)
