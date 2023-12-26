@@ -17,7 +17,7 @@ The first module introduces the concept of functions and demonstrates their use 
 
 ### Assessment
 
-- [bubblesort.go](tree/main/week%201/bubblesort.go)
+- [bubblesort.go](blob/main/week%201/bubblesort.go)
 
 ## Week 2: Function Types
 
