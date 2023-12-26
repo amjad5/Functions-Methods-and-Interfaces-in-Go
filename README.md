@@ -17,7 +17,7 @@ The first module introduces the concept of functions and demonstrates their use 
 
 ### Assessment
 
-- [bubblesort.go](Functions-Methods-and-Interfaces-in-Go/tree/main/week%201/bubblesort.go)
+- [bubblesort.go](tree/main/week%201/bubblesort.go)
 
 ## Week 2: Function Types
 
@@ -31,7 +31,7 @@ The second module continues exploring the use of functions in Go, delving into a
 
 ### Assessment
 
-- [displacement.go](/Functions-Methods-and-Interfaces-in-Go/tree/main/week%202/displacement.go)
+- [displacement.go](tree/main/week%202/displacement.go)
 
 ## Week 3: Object Orientation in Go
 
@@ -46,4 +46,4 @@ Functions in Go offer powerful capabilities, and this module explores their usag
 
 ### Assessment
 
-- [animal.go](Functions-Methods-and-Interfaces-in-Go/blob/main/week%203/animal.go)
+- [animal.go](tree/main/week%203/animal.go)
